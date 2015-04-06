@@ -1,5 +1,6 @@
 <?php
 require_once('cmsBase.php');
-class CmsWidget extends CmsBase{
+class cmsWidget extends cmsBase{
 	//semua kode yang ada disini dapat diakses melalui fungsi widget dalam CMS
 }
+?>
